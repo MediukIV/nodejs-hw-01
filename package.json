@@ -13,7 +13,7 @@
     "remove-all": "node src/scripts/removeAllContacts.js"
   },
   "keywords": [],
-  "author": "Anna Shchetynina <verusiapavlovna@gmail.com>",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.2.0",
